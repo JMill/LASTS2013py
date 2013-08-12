@@ -81,6 +81,7 @@ def main():
   print 'aBigWhat'
   test(aBigWhat(), 10)
 
+  print
   print 'givingBack'
   test(givingBack('lion'), 'lion')
   test(givingBack('lady lion'), 'lady lion')

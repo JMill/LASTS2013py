@@ -1,4 +1,5 @@
 {% import "macros/ork.jinja" as ork with context %}
+
 A Gentle Introduction To Python
 *********************************
 
@@ -38,7 +39,7 @@ Last updated on {{ d['code/00----datetimestamp.py|py']}}
 * ints
 * floats
 
-`Do 01 <code/do01.py>`_
+`Do 01 <do01.html>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Basic practice of strings and numbers.
@@ -61,7 +62,7 @@ Last updated on {{ d['code/00----datetimestamp.py|py']}}
 * using others' functions
 * some math
 
-`Do 02 <code/do02.py>`_
+`Do 02 <do02.html>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * More strings and numbers, with a taste of lists and ``if`` statements.
