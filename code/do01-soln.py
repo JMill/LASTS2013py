@@ -16,38 +16,38 @@
 # A. add2plus2
 # print the sum of 2 and 2.
 def add2plus2():
-  return # +++ your code here +++
+  return 2+2
 
 # B. weArePSU
 # return "PSU"
 def weArePSU():
-  return # +++ your code here +++
+  return "PSU"
 
 # C. lasts
 # Return a sentence that says "This is LASTS 2013"
 def lasts():
-  return # +++ your code here +++
+  return "This is LASTS 2013"
 
 # D. aBigWhat
 # Penn State is a Big ____ school. Calculate and return the 
 # number as the product (multiplication) of at least 2 
 # other numbers. 
 def aBigWhat():
-  return # +++ your code here +++
+  return 2 * 5
 
 # E. givingBack
 # You haven't learned this yet. 'givingBack()' is a function
 # that receives input, 'number'. Write the function to 'return'
 # what was given to it.
 def givingBack(whatever):
-  return # +++ your code here +++
+  return whatever
 
 # F. givingBackMore
 # Like 'givingBack()' above, givingBackMore receives input called
 # 'word'. Make the function return two 'word's.
 # (Hint: you can multiply words by two by writing'* 2'.)
 def givingBackMore(word):
-  return # +++ your code here +++
+  return word * 2
 
 
 
