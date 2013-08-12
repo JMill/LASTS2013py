@@ -38,34 +38,42 @@ Last updated on {{ d['code/00----datetimestamp.py|py']}}
 * ints
 * floats
 
-Do 01 <code/do00.py>?
+`Do 01 <code/do01.py>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Basic practice of strings and numbers.
 
 
 `Show 03: Variables <show03.html>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* variables
+* variables, ``if`` statements, conditions.
 
-`Hobbits <show04.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`Show 04: Hobbits <show04.html>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * lists
 
-`Rowing <show05.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~
+`Show 05: Rowing <show05.html>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * more lists
 * using others' functions
 * some math
 
-`More Rowing <show06.html>`_
+`Do 02 <code/do02.py>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* More strings and numbers, with a taste of lists and ``if`` statements.
+
+
+`Show 06: More Rowing <show06.html>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * functions
 
-`Yet More Rowing <show07.html>`_
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`Show 07: Yet More Rowing <show07.html>`_
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * graphing
 

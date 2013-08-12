@@ -51,5 +51,4 @@ Programmers are lazy, so they make the computer do as much work as possible. Thi
 Study Drills
 ===============
 
-- What do you think those sets of double quotes (``"""``) do?  *Hint:* They do something similar to what ``#`` does.
 - Go outside and measure five things of the same type, then write a program that calculates the average of the five measurements using the ``mean()`` function above.  For example, find five trees and attempt to hug them. How many percent of a hug is each tree?  A small tree may be 0.25 hugs, an established tree may be 1.0 hug, and a big old tree may be 1.5 or more hugs. Be sure to perform the average calculation by hand as well, just to double check your work.

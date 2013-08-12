@@ -13,7 +13,7 @@ Open a new script in Canopy. Type in the following code exactly. Remember, do no
  
 {{ ork.code('code/02-01-printing_math.py|pyg') }}
 
-Save this file as ex2-phoenix_weather.py. Then click Run. 
+Save this file as *ex2-phoenix_weather.py*. Then click Run. 
 
 (That ``_`` character is called "underscore". Look up how to type it with your keyboard. On my keyboard I press ``Shift`` + ``-``.)
 

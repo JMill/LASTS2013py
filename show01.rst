@@ -22,7 +22,7 @@ Write the following code in the editor. Do not copy and paste. **Type each and e
 
 Then save what you wrote by clicking File | Save As... 
 
-Name this file ``exercise1.py``.  While it doesn't matter where you save the file, I put mine in a new folder called "Python Workshop". You can, too.
+Name this file *exercise1.py*.  While it doesn't matter where you save the file, I put mine in a new folder called "Python Workshop". You can, too.
 
 Then click Run | Run Module. On Windows this looks like:
 
