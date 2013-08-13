@@ -3,7 +3,7 @@
 Do 01: Basic strings and numbers
 *************************************
 
-Copy/paste this code or download the []][][ BUNDLE [][]]].
+Copy/paste this code or `download the bundle <code/lasts-do-bundle.zip>`_.
 
 {{ ork.code('code/do01.py|pyg') }}
 

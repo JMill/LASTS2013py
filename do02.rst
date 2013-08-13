@@ -3,7 +3,7 @@
 Do 02: Strings, Numbers, Lists, Conditions
 ***********************************************
 
-Copy/paste this code or download the []][][ BUNDLE [][]]].
+Copy/paste this code or `download the bundle <code/lasts-do-bundle.zip>`_.
 
 {{ ork.code('code/do02.py|pyg') }}
 
@@ -11,7 +11,7 @@ When you first run it, you'll see this::
 
 	{{ d['code/do02.py|py']|indent(4) }}
 
-I added some tests for you to pass. Sample solutions are below.
+I added some tests for you to pass. Sample solutions are below. 
 
 ----------------------------------------------------------------------------------------------------------------
 

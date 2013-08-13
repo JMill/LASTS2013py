@@ -12,6 +12,7 @@ html-code:
     - code/*.py|pyg|h
     - code/*.py|py
     - code/*.txt
+    - code/*.zip
 
 .rst|yamlargs|jinja|rst2html:
     - .py|idio|pycon|pyg:
