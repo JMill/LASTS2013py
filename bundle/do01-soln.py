@@ -14,12 +14,13 @@
 
 
 # A. add2plus2
-# print the sum of 2 and 2.
+# This is a 'function'. When someone writes add2plus2(), we want it to 'return' a 4. 
+# Just add a tiny bit of code after the 'return' statement below.
 def add2plus2():
   return 2+2
 
 # B. weArePSU
-# return "PSU"
+# If someone calls weArePSU(), we want it to return "PSU".
 def weArePSU():
   return "PSU"
 
@@ -36,15 +37,14 @@ def aBigWhat():
   return 2 * 5
 
 # E. givingBack
-# You haven't learned this yet. 'givingBack()' is a function
-# that receives input, 'number'. Write the function to 'return'
-# what was given to it.
+# This function receives an input that we'll call 'whatever'. 
+# Write the function to 'return' what was given to it.
 def givingBack(whatever):
   return whatever
 
 # F. givingBackMore
-# Like 'givingBack()' above, givingBackMore receives input called
-# 'word'. Make the function return two 'word's.
+# Similar 'givingBack()' above, givingBackMore receives input called
+# 'word'. Make the function return two 'word's (whatever the word is).
 # (Hint: you can multiply words by two by writing'* 2'.)
 def givingBackMore(word):
   return word * 2

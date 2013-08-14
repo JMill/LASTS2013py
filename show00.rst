@@ -90,6 +90,5 @@ There are many flavors of Linux with a multitude of installation options. If you
 
 
 .. [#] That's a double entendre!
-.. [#] Even playing the game *Angry Birds* performs more math than the moon rocket launch.
 .. [#] While OSX comes with Python already, it doesn't have some extra stuff like graph-making abilities, so we are going to use the Enthought Python distribution to get up and running more easily.
 
