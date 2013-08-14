@@ -84,3 +84,6 @@ Last updated on {{ d['code/00----datetimestamp.py|py']}}
 
 * Resources to keep you busy
 
+------------------------------------------------------------------------------------------------------------------------------
+
+The source code for this workshop's documentation lives at `https://bitbucket.org/JMill/lasts2013py <https://bitbucket.org/JMill/lasts2013py>`_.
