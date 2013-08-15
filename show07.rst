@@ -1,6 +1,6 @@
 {% import "macros/ork.jinja" as ork with context %}
 
-Exercise 7: Yet More Rowing
+Show 07: Yet More Rowing
 *******************************
 
 Staring at many rows data and lines of code can make your eyes gloss over. That's why statisticians and their ilk invented charts. More importantly, charts can make it really easy to spot trends hidden in tables of numbers and text.  

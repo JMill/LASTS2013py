@@ -11,6 +11,8 @@ There are a couple different paths to take depending on how this workshop went f
 
 * `Dive Into Python <http://www.diveintopython.net/>`_ by Mark Pilgrim.
 
+* `MITx's Introduction to Computer Science <https://www.edx.org/course/mit/6-00x/introduction-computer-science/586>`_ is an in-depth, applied treatment of Python. It's a free online course.
+
 For specific fields of interest in Python-land, check out:
 
 * `The Django Tutorial <https://docs.djangoproject.com/en/1.6/intro/tutorial01/>`_ for making powerful web applications.

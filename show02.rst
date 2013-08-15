@@ -1,6 +1,6 @@
 {% import "macros/ork.jinja" as ork with context %}
 
-Exercise 2: Strings, Integers, and Floats
+Show 02: Strings, Integers, and Floats
 *********************************************
 
 Before you can use software to solve real-world problems, you have to get more familiar with Python.  It will take practice and will be hard and confusing, but it will be worth it.

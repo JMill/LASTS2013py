@@ -1,6 +1,6 @@
 {% import "macros/ork.jinja" as ork with context %}
 
-Exercise 4: Hobbits
+Show 04: Hobbits
 *******************************************
 
 Below are data [#]_ acquired from *The Lord of the Rings* and other books about Middle Earth by J.R.R. Tolkien.

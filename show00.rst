@@ -1,6 +1,6 @@
 {% import "macros/ork.jinja" as ork with context %}
 
-Exercise 0: Meet Python
+Show 00: Python Setup
 *************************
 
 Think about when you were learning to speak a foreign language. Before you could comfortably speak anything intelligible, you had to plow through vocabulary lists and grammar concepts.

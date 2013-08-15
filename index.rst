@@ -9,11 +9,15 @@ A Gentle Introduction To Python
 * twitter: `@imjmill <https://twitter.com/imjmill>`_
 * `LinkedIn <http://linkedin.com/in/jmill>`_
 
-*Liberal Arts Scholarship and Technology Summit (LASTS) at The Pennsylvania State University*
+This is an online guidebook for the workshop entitled *A Gentle Introduction to Python*, by `Jonathan B. Miller <http://jmillville.com>`_, for the Liberal Arts Scholarship and Technology Summit (LASTS) at The Pennsylvania State University, University Park, PA, on Thursday, August 15th, 2013.
 
-University Park, Pennsylvania
 
-Thursday, August 15th, 2013
+Workshop description
+=======================
+
+*Stop fighting the computer and instead make it do your bidding. Learn how to get up and running with Python, a general-purpose coding language that is both newbie friendly yet very powerful. Python is used at large organizations such as Google, Yahoo!, CERN, and NASA, and in many famous applications including Youtube, Dropbox, Instagram, and Reddit. Attendees in this workshop will get a taste of basic computer science concepts via in-class examples and have opportunities to apply the knowledge in guided exercises. No coding experience is necessary. Learn by doing -- bring your computer.*
+
+
 
 Last updated on {{ d['code/00----datetimestamp.py|py']}}
 
@@ -44,6 +48,7 @@ Last updated on {{ d['code/00----datetimestamp.py|py']}}
 
 * Basic practice of strings and numbers.
 
+------------------------------------------------------------------------------------------------------------------------------
 
 `Show 03: Variables <show03.html>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,6 +72,7 @@ Last updated on {{ d['code/00----datetimestamp.py|py']}}
 
 * More strings and numbers, with a taste of lists and ``if`` statements.
 
+------------------------------------------------------------------------------------------------------------------------------
 
 `Show 06: More Rowing <show06.html>`_
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,4 +92,4 @@ Last updated on {{ d['code/00----datetimestamp.py|py']}}
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-The source code for this workshop's documentation lives at `https://bitbucket.org/JMill/lasts2013py <https://bitbucket.org/JMill/lasts2013py>`_.
+The source code for this workshop's documentation lives at `https://bitbucket.org/JMill/lasts2013py <https://bitbucket.org/JMill/lasts2013py>`_. There is also a `README. <README.html>`_

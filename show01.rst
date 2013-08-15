@@ -1,7 +1,8 @@
 {% import "macros/ork.jinja" as ork with context %}
 
-Your first program
-==================================
+Show 01: Your first program
+************************************
+
 In the Editor, create a new file if you didn't already done so in the previous exercise.  You will see a blank editor area and a blank *Python* area. 
 
 |macemptyeditor|

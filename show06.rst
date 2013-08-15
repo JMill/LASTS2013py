@@ -1,6 +1,6 @@
 {% import "macros/ork.jinja" as ork with context %}
 
-Exercise 6: More Rowing
+Show 06: More Rowing
 *******************************
 
 In the previous exercise you calculated the mean weight of the Cambridge crew and then the mean weight of the Oxford crew.  You surely noticed that writing the code to calculate Oxford's mean was pretty easy since it used the same procedure as the code to calculate Cambridge's mean.

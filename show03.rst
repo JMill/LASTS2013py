@@ -1,7 +1,7 @@
 {% import "macros/ork.jinja" as ork with context %}
 
-Lets put this in code
-======================
+Show 03: Variables
+**********************
 
 The following code introduces two new programming concepts, *variables* and *if-else* statements. It's okay if you don't understand everything you're typing below.
 

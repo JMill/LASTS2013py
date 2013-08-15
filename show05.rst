@@ -1,6 +1,6 @@
 {% import "macros/ork.jinja" as ork with context %}
 
-Exercise 5: Rowing
+Show 05: Rowing
 *******************************************
 
 A data table associated with `The Boat Race <http://en.wikipedia.org/wiki/The_Boat_Race>`_ is below. It contains the weight in pounds of each team member who participated in The Boat Race, an annual competition between rivals Cambridge University and Oxford University. This data happens to be from the 1992 race.
